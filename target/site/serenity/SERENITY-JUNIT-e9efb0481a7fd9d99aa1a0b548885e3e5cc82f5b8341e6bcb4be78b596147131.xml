@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="TestRunner" skipped="0" tests="4" time="10.08" timestamp="2021-02-05 07:52:49"><testcase classname="TestRunner" name="Register user test with string"/><testcase classname="TestRunner" name="Fact test"/><testcase classname="TestRunner" name="Initial test"><failure message="&#10;Expected: &quot;https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg&quot;&#10;     but: was &quot;https://reqres.in/img/faces/1-image.jpg&quot;" type="java.lang.AssertionError">
+Expected: "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+     but: was "https://reqres.in/img/faces/1-image.jpg"</failure><system-err>
+Expected: "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+     but: was "https://reqres.in/img/faces/1-image.jpg"&#13;
+TestRunner.initialTest(TestRunner.java:49)&#13;
+</system-err></testcase><testcase classname="TestRunner" name="Register user test with model"/></testsuite>

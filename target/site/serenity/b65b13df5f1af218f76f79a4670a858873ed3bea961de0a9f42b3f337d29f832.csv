@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test runner","Register user test with string","SUCCESS","2021-02-05T08:17:57.788-03:00[America/Buenos_Aires]","0.0","3.0"
+"Test runner","Fact test","SUCCESS","2021-02-05T08:18:00.826-03:00[America/Buenos_Aires]","0.0","0.65"
+"Test runner","Initial test","SUCCESS","2021-02-05T08:18:01.479-03:00[America/Buenos_Aires]","0.0","0.11"
+"Test runner","Register user test with model","SUCCESS","2021-02-05T08:18:01.592-03:00[America/Buenos_Aires]","0.0","0.05"
